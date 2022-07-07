@@ -22,7 +22,7 @@
 	<name>soapTest - Core</name>
 	<description>Core bundle for soapTest</description>
 	<properties>
-		<apache-cxf-version>2.7.3</apache-cxf-version>
+		<apache-cxf-version>2.7.9</apache-cxf-version>
 	</properties>
 	<build>
 		<plugins>
